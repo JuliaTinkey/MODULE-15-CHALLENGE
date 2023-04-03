@@ -23,3 +23,5 @@ Your visualization should look something like the preceding map.
 
 
 Challenge References
+-Lesson Plans- All of Module 15 (Mapping) acitivites and solution
+-Stack Overflow
