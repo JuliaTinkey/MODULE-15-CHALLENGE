@@ -26,3 +26,4 @@ Challenge References
 -Lesson Plans- All of Module 15 (Mapping) acitivites and solution
 -Stack Overflow
   - https://gis.stackexchange.com/questions/258335/leaflet-create-legend
+  -https://gis.stackexchange.com/questions/341979/leaflet-make-legend-with-different-circle-sizes
