@@ -28,3 +28,4 @@ Challenge References
   - https://gis.stackexchange.com/questions/258335/leaflet-create-legend
   -https://gis.stackexchange.com/questions/341979/leaflet-make-legend-with-different-circle-sizes
   -https://stackoverflow.com/questions/37023790/leaflet-create-layers-from-geojson-properties
+  -https://gis.stackexchange.com/questions/330867/geojson-search-box-for-multiple-layers
